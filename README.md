@@ -1,37 +1,36 @@
-# _{Application Name}_
+# _{leap-year}_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{App for discerning whether a variable year is indeed a leap year or not}, {Wednesday, August 16th 2016}_
 
-#### By _**{List of contributors}**_
+#### By _**{Timothy Bourgault}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{The application must be able to return a 'false' output when the year is not a leap year, should return a 'true' output when the given year is divisible by 4, should return a 'false' output when the year input is divisible by 100, and should return a 'true' output if if the inputted year is divisible by 400.}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Load up the index.html file by opening it in a browser window_
+* _In the text box to the right of the line "Enter a year and find out if it's a leap year:", enter the year in question._
+* _Voila! The program will give you a true or false statement about the year you put in the field_
+* _Try different years to test the parameters_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_{It may be necessary to run a server to access this app.}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{There are no known issues so far...}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{If for some reason, a difficulty arises, contact Tim Bourgault at tim.bourgault@gmai.com}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{jQuery and Bootstrap were used to create this application}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Open Source}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_{Tim Bourgault & Epicodus}_**
